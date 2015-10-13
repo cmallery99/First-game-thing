@@ -4,12 +4,16 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\Chomp</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\_pcmn_spr</sprite>
     <sprite>sprites\dot_spr</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background1</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Pcmn_obj</object>
