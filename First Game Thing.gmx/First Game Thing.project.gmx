@@ -13,7 +13,9 @@
     <sprite>sprites\sprite2</sprite>
     <sprite>sprites\sprite3</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\penis_bkd</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Pcmn_obj</object>
