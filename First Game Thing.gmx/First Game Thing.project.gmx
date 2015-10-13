@@ -9,9 +9,11 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\_pcmn_spr</sprite>
+    <sprite>sprites\sprite1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\penis_bkd</background>
+    <background>background\bknd1_bknd</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
