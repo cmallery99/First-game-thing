@@ -4,18 +4,16 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\sound0</sound>
-  </sounds>
+  <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\_pcmn_spr</sprite>
+    <sprite>sprites\dot_spr</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\penis_bkd</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Pcmn_obj</object>
+    <object>objects\dot_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Big_rm</room>
