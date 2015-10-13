@@ -6,15 +6,10 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-<<<<<<< HEAD
-    <sprite>sprites\_pcmn</sprite>
-    <sprite>sprites\balls</sprite>
-=======
     <sprite>sprites\_pcmn_spr</sprite>
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\sprite2</sprite>
     <sprite>sprites\sprite3</sprite>
->>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
