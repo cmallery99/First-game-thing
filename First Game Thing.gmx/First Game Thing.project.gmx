@@ -6,14 +6,15 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\_pcmn</sprite>
+    <sprite>sprites\_pcmn_spr</sprite>
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\Pcmn</object>
+    <object>objects\Pcmn_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Big_rm</room>
