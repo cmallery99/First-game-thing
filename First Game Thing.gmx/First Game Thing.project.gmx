@@ -5,9 +5,16 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\_pcmn</sprite>
+    <sprite>sprites\sprite1</sprite>
+    <sprite>sprites\sprite2</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\Pcmn</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\Big_rm</room>
   </rooms>
